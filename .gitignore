@@ -1,0 +1,4 @@
+# Ignore directories
+log/
+instance/
+venv/
